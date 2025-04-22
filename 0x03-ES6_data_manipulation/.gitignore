@@ -1,0 +1,3 @@
+# Ignore node.js or node_modules only inside javascript/
+javascript/node.js/
+javascript/node_modules/
